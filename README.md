@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### 💻 &nbsp;GitHub Analytics
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyi7628%2Fhit-counter&count_bg=%23FF6192&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
+<br/>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=pyi7628&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/pyi7628/github-readme-stats)
 
 <!--
