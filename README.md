@@ -1,12 +1,17 @@
 ### Hi there 👋
 
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pyi7628&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/pyi7628/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyi7628&layout=compact&theme=algolia)](https://github.com/pyi7628/github-readme-stats)
+
 <!--
 **pyi7628/pyi7628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning - Spring boot, Kubernetes, Docker, Redis, GraphQL, Redux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
