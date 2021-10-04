@@ -17,7 +17,7 @@
 
 <br>
 
-![pyi7628's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyi7628&show_icons=true&theme=radical)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pyi7628&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/pyi7628/github-readme-stats)
 
 [![pyi7628](http://mazassumnida.wtf/api/generate_badge?boj=pyi7628)](https://solved.ac/pyi7628)
 
